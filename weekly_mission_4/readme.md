@@ -8,7 +8,7 @@ Proyectos desarrollados en la semana 4:
 |`PR`|4|[Link al repo](https://github.com/iRetr0o/fizzbuzz-visualpartnership)|
 |`Code Challenge`|5|[Link al repo](https://github.com/iRetr0o/Code_Challenge)|
 |`Trello`|6|[Link al repo](https://github.com/iRetr0o/API_Rest-Trello)|
-|`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Trello JS Fork`|7|[Link al repo](https://github.com/iRetr0o/Trello-JS)|
 
 Actividades realizadas en esta semana:
 - Realizar lectura de código legado, cuando estés en un proyecto te tocará integrarte a proyectos ya iniciados.
