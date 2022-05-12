@@ -7,7 +7,6 @@ Proyectos desarrollados en la semana 5:
 |`Bot Telegram`|1|[Link al repo](https://github.com/iRetr0o/FizzBuzz)|
 |`SQL`|2|[Link al repo](https://github.com/iRetr0o/Prisma_DB)|
 |`Prisma DB`|3|[Link al repo](https://github.com/iRetr0o/Prisma_DB)|
-|`Cliente Servidor`|4|[Link al repo](https://github.com/iRetr0o/Prisma_DB)|
+|`Cliente Servidor`|4|[Link al repo](https://github.com/iRetr0o/client-launchx)|
 
-Las practicas 2, 3 y 4 estan en un mismo repositorio ya que la practica 2 no se pudo versionar al solo utilizar el programa [Postgres](https://www.postgresql.org/download/) para conocer comandos basicos, su funcionamiento entre otras cosas.
-La practica 3 y 4 ya que se uso la misma base de datos para conectarla con la parte del cliente.
+Las practicas 2, y 3 estan en un mismo repositorio ya que la practica 2 no se pudo versionar al solo utilizar el programa [Postgres](https://www.postgresql.org/download/) para conocer comandos basicos, su funcionamiento entre otras cosas.
