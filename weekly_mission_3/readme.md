@@ -2,8 +2,6 @@
 
 Proyectos desarrollados en la semana 3:
 
-(Falta actualizar los links)
-
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
 |`my_launchx_app`|1|[Link al repo](https://github.com/iRetr0o/my_launchx_app)|
