@@ -35,3 +35,5 @@ Se nos proporciono una lista y tuvimos que realizar sobre la lista lo siguiente:
 
 [Ejercicio 3](https://github.com/iRetr0o/playbook/tree/main/weekly_mission_2/exercises/ejercicio_3).
 Tomando de referencia el ejercicio 1, convierte esos objetos a definiciones de clases.
+
+Versión de Node: <a href="https://nodejs.org/docs/latest-v16.x/api/index.html" target="_blank">16.14.2</a>
